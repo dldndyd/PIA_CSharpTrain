@@ -3,7 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PIA_CSharpTrain_projectcreat", "PIA_CSharpTrain_projectcreat\PIA_CSharpTrain_projectcreat.csproj", "{40AB3EA1-332F-42BD-BB16-5B27CCB22229}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40AB3EA1-332F-42BD-BB16-5B27CCB22229}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40AB3EA1-332F-42BD-BB16-5B27CCB22229}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40AB3EA1-332F-42BD-BB16-5B27CCB22229}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40AB3EA1-332F-42BD-BB16-5B27CCB22229}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
